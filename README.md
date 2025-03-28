@@ -1,6 +1,6 @@
 ### Hello Guys
 
-- 👋 Hi, I’m @nicolasVasseli
+- 👋 Hi, I’m @Vasseliz
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 - 💞️ Please feel free to test and contribute to my repositories
