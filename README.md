@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Vasseliz
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 I’m currently learning Ract, Angular, C#
 - 💞️ Please feel free to test and contribute to my repositories
 - 📫 How to reach me (https://www.linkedin.com/in/nicolasvasseli/)
 
